@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_height">240dp</dimen>
+    <dimen name="space_height">80dp</dimen>
+    <dimen name="social_btn_padding_left_right">20dp</dimen>
+
+    <dimen name="profile_img_width_height">48dp</dimen>
+    <dimen name="profile_img_margine_left">18dp</dimen>
+    <dimen name="profile_img_margin_bottom">-24dp</dimen>
+    
+    <dimen name="social_icon_width_heght">64dp</dimen>
+    <dimen name="social_icon_padding">12dp</dimen>
+    <dimen name="profile_icon_margine_right">20dp</dimen>
+    <dimen name="profile_icon_margin_bottom">-32dp</dimen>
+
+</resources>

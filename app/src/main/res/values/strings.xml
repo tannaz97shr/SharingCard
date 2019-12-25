@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaradarasSharingCard</string>
+    <string name="content">this cafe is cozy. a greate place to have coffee with friends.
+        oh wait... you can play emazing games here!</string>
+    
+    <string name="social_btn_text_1">profile</string>
+    <string name="social_btn_text_2">send message</string>
+    <string name="sociak_btn_text_3">share</string>
+</resources>
